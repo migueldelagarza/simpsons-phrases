@@ -1,32 +1,35 @@
-[
-  {
-    "character": "Bart Simpson",
-    "quote": "Cómete mis calzones de olanes",
-    "difficulty": 0
-  },
-  {
-    "character": "Homero Simpson",
-    "quote": "¡Mmm... rosquillas!",
-    "difficulty": 0
-  },
-  {
-    "character": "Lisa Simpson",
-    "quote": "Sí, yo también lo escuché. Ahora un poco de música.",
-    "difficulty": 1
-  },
-  {
-    "character": "Marge Simpson",
-    "quote": "Debe ser donde se paga la cuenta.",
-    "difficulty": 1
-  },
-  {
-    "character": "Sr Burns",
-    "quote": "¡Excelente!",
-    "difficulty": 0
-  },
-  {
-    "character": "Ned Flanders",
-    "quote": "¡Hola, vecino!",
-    "difficulty": 2
-  }
-]
+{
+  "phrases":
+  [
+    {
+      "character": "Bart Simpson",
+      "quote": "Cómete mis calzones de olanes",
+      "difficulty": 0
+    },
+    {
+      "character": "Homero Simpson",
+      "quote": "¡Mmm... rosquillas!",
+      "difficulty": 0
+    },
+    {
+      "character": "Lisa Simpson",
+      "quote": "Sí, yo también lo escuché. Ahora un poco de música.",
+      "difficulty": 1
+    },
+    {
+      "character": "Marge Simpson",
+      "quote": "Debe ser donde se paga la cuenta.",
+      "difficulty": 1
+    },
+    {
+      "character": "Sr Burns",
+      "quote": "¡Excelente!",
+      "difficulty": 0
+    },
+    {
+      "character": "Ned Flanders",
+      "quote": "¡Hola, vecino!",
+      "difficulty": 2
+    }
+  ]
+}
